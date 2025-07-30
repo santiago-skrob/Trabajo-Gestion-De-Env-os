@@ -1,0 +1,393 @@
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Final boss\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Final boss\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Final boss\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Final boss\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Final boss\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Final boss\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Final boss\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Final boss\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Final boss\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Final boss\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Trabajo\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Trabajo\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Trabajo\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Trabajo\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Trabajo\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Trabajo\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Login.resources
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Trabajo\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Trabajo\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Registro.resources
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Trabajo\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Trabajo\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Trabajo\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Trabajo\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Trabajo\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Cliente.resources
+D:\Puerta de valla de madera de roble oscuro\Trabajo\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+D:\Puerta de valla de madera de roble oscuro\Trabajo\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+D:\Puerta de valla de madera de roble oscuro\Trabajo\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+D:\Puerta de valla de madera de roble oscuro\Trabajo\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+D:\Puerta de valla de madera de roble oscuro\Trabajo\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+D:\Puerta de valla de madera de roble oscuro\Trabajo\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Administador.resources
+D:\Puerta de valla de madera de roble oscuro\Trabajo\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Cliente.resources
+D:\Puerta de valla de madera de roble oscuro\Trabajo\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Login.resources
+D:\Puerta de valla de madera de roble oscuro\Trabajo\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+D:\Puerta de valla de madera de roble oscuro\Trabajo\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Registro.resources
+D:\Puerta de valla de madera de roble oscuro\Trabajo\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+D:\Puerta de valla de madera de roble oscuro\Trabajo\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\Puerta de valla de madera de roble oscuro\Trabajo\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+D:\Puerta de valla de madera de roble oscuro\Trabajo\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.1\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.1\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.1\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Administador.resources
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Cliente.resources
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Login.resources
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Registro.resources
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.1\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.1\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.1\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Administador.resources
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Cliente.resources
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Login.resources
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Registro.resources
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.2\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.2\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.2\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Administador.resources
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Cliente.resources
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Login.resources
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Registro.resources
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\GE\1.2\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\SantiagoSkrobacki\Desktop\GE\1.2\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\GE\1.2\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\GE\1.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\SantiagoSkrobacki\Desktop\GE\1.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\SantiagoSkrobacki\Desktop\GE\1.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Administador.resources
+C:\Users\SantiagoSkrobacki\Desktop\GE\1.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Cliente.resources
+C:\Users\SantiagoSkrobacki\Desktop\GE\1.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Login.resources
+C:\Users\SantiagoSkrobacki\Desktop\GE\1.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\SantiagoSkrobacki\Desktop\GE\1.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Registro.resources
+C:\Users\SantiagoSkrobacki\Desktop\GE\1.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\SantiagoSkrobacki\Desktop\GE\1.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\SantiagoSkrobacki\Desktop\GE\1.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\GE\1.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\GE\1.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.AgregarEnvio.resources
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.3\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.3\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.3\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.3\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.3\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.AgregarEnvio.resources
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.3\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.3\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Administador.resources
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.3\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Cliente.resources
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.3\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Login.resources
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.3\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.3\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Registro.resources
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.3\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.3\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.3\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+D:\Puerta de valla de madera de roble oscuro\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\1.3\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\PP\Primera Presentacion Skrobacki-Marzana\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\SantiagoSkrobacki\Desktop\PP\Primera Presentacion Skrobacki-Marzana\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\PP\Primera Presentacion Skrobacki-Marzana\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\PP\Primera Presentacion Skrobacki-Marzana\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\SantiagoSkrobacki\Desktop\PP\Primera Presentacion Skrobacki-Marzana\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.AgregarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\PP\Primera Presentacion Skrobacki-Marzana\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\SantiagoSkrobacki\Desktop\PP\Primera Presentacion Skrobacki-Marzana\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Administador.resources
+C:\Users\SantiagoSkrobacki\Desktop\PP\Primera Presentacion Skrobacki-Marzana\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Cliente.resources
+C:\Users\SantiagoSkrobacki\Desktop\PP\Primera Presentacion Skrobacki-Marzana\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Login.resources
+C:\Users\SantiagoSkrobacki\Desktop\PP\Primera Presentacion Skrobacki-Marzana\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\SantiagoSkrobacki\Desktop\PP\Primera Presentacion Skrobacki-Marzana\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Registro.resources
+C:\Users\SantiagoSkrobacki\Desktop\PP\Primera Presentacion Skrobacki-Marzana\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\SantiagoSkrobacki\Desktop\PP\Primera Presentacion Skrobacki-Marzana\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\SantiagoSkrobacki\Desktop\PP\Primera Presentacion Skrobacki-Marzana\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\PP\Primera Presentacion Skrobacki-Marzana\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Navegador\source\repos\1.4\1.4\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Navegador\source\repos\1.4\1.4\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Navegador\source\repos\1.4\1.4\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Navegador\source\repos\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Navegador\source\repos\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.AgregarEnvio.resources
+C:\Users\Navegador\source\repos\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\Navegador\source\repos\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Administador.resources
+C:\Users\Navegador\source\repos\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Cliente.resources
+C:\Users\Navegador\source\repos\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Login.resources
+C:\Users\Navegador\source\repos\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Navegador\source\repos\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Registro.resources
+C:\Users\Navegador\source\repos\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Navegador\source\repos\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\source\repos\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Navegador\source\repos\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Navegador\source\repos\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\1.4\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\1.4\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\1.4\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.AgregarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Administador.resources
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Cliente.resources
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Login.resources
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Registro.resources
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.AgregarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Administador.resources
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Cliente.resources
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Login.resources
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Registro.resources
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\Nueva carpeta (5)\1.4\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.6\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.6\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.6\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.6\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.6\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.AgregarEnvio.resources
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.6\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.6\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Administador.resources
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.6\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Cliente.resources
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.6\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Login.resources
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.6\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarEnvio.resources
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.6\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.6\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Registro.resources
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.6\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.6\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.6\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Public\Escuela\Universidad\2-1\Programacion orientada a objetos\Versiones\1.6\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\source\repos\1.7\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\SantiagoSkrobacki\source\repos\1.7\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\source\repos\1.7\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\source\repos\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\SantiagoSkrobacki\source\repos\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.AgregarEnvio.resources
+C:\Users\SantiagoSkrobacki\source\repos\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\SantiagoSkrobacki\source\repos\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Administador.resources
+C:\Users\SantiagoSkrobacki\source\repos\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Cliente.resources
+C:\Users\SantiagoSkrobacki\source\repos\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Login.resources
+C:\Users\SantiagoSkrobacki\source\repos\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarEnvio.resources
+C:\Users\SantiagoSkrobacki\source\repos\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\SantiagoSkrobacki\source\repos\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Registro.resources
+C:\Users\SantiagoSkrobacki\source\repos\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\SantiagoSkrobacki\source\repos\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\SantiagoSkrobacki\source\repos\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\source\repos\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\1.7\1.7\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\SantiagoSkrobacki\Desktop\1.7\1.7\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\1.7\1.7\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\1.7\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\SantiagoSkrobacki\Desktop\1.7\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.AgregarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.7\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.7\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Administador.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.7\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Cliente.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.7\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Login.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.7\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.7\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.7\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Registro.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.7\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\SantiagoSkrobacki\Desktop\1.7\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\SantiagoSkrobacki\Desktop\1.7\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\1.7\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\1.7\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarCliente.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.7\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.7\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.7\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.AgregarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Administador.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Cliente.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Login.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarCliente.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarProveedor.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Registro.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.7\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.8\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.8\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.8\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.8\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.8\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.AgregarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.8\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.8\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Administador.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.8\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Cliente.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.8\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Login.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.8\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarCliente.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.8\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.8\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarProveedor.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.8\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.8\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Registro.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.8\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.8\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.8\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.8\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.8\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarRepartidor.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.8\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.EntregarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.8\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Proveedor.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.8\1.8\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Repartidor.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.9\1.9\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\SantiagoSkrobacki\Desktop\1.9\1.9\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\1.9\1.9\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\1.9\1.9\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\SantiagoSkrobacki\Desktop\1.9\1.9\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.AgregarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.9\1.9\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.EntregarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.9\1.9\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.9\1.9\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Administador.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.9\1.9\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Cliente.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.9\1.9\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Proveedor.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.9\1.9\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Repartidor.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.9\1.9\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Login.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.9\1.9\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarCliente.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.9\1.9\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.9\1.9\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarProveedor.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.9\1.9\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarRepartidor.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.9\1.9\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.9\1.9\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Registro.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.9\1.9\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\SantiagoSkrobacki\Desktop\1.9\1.9\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\SantiagoSkrobacki\Desktop\1.9\1.9\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\1.9\1.9\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\1.95\1.95\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\SantiagoSkrobacki\Desktop\1.95\1.95\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\1.95\1.95\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\1.95\1.95\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\SantiagoSkrobacki\Desktop\1.95\1.95\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.AgregarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.95\1.95\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.EntregarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.95\1.95\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.95\1.95\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Administador.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.95\1.95\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Cliente.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.95\1.95\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Proveedor.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.95\1.95\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Repartidor.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.95\1.95\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Login.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.95\1.95\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarCliente.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.95\1.95\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.95\1.95\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarProveedor.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.95\1.95\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarRepartidor.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.95\1.95\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.95\1.95\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Registro.resources
+C:\Users\SantiagoSkrobacki\Desktop\1.95\1.95\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\SantiagoSkrobacki\Desktop\1.95\1.95\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\SantiagoSkrobacki\Desktop\1.95\1.95\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\1.95\1.95\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\2.0\2.0\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\SantiagoSkrobacki\Desktop\2.0\2.0\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.AgregarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.0\2.0\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.EntregarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.0\2.0\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.0\2.0\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Administador.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.0\2.0\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Cliente.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.0\2.0\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Proveedor.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.0\2.0\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Repartidor.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.0\2.0\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Login.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.0\2.0\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarCliente.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.0\2.0\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.0\2.0\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarProveedor.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.0\2.0\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarRepartidor.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.0\2.0\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.0\2.0\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Registro.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.0\2.0\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\SantiagoSkrobacki\Desktop\2.0\2.0\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\SantiagoSkrobacki\Desktop\2.0\2.0\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\SantiagoSkrobacki\Desktop\2.0\2.0\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\2.0\2.0\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\2.0\2.0\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\2.0\2.0\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\SantiagoSkrobacki\Desktop\2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.AgregarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.EntregarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Administador.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Cliente.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Proveedor.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Repartidor.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Login.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarCliente.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarProveedor.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarRepartidor.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Registro.resources
+C:\Users\SantiagoSkrobacki\Desktop\2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\SantiagoSkrobacki\Desktop\2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\SantiagoSkrobacki\Desktop\2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\2.1\2.1\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\SantiagoSkrobacki\Desktop\2.1\2.1\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\2.1\2.1\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.1\2.1\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.1\2.1\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.1\2.1\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.AgregarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.EntregarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Administador.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Cliente.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Proveedor.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Repartidor.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Login.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarCliente.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarProveedor.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarRepartidor.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Registro.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.1\2.1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.2\2.2\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.2\2.2\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.2\2.2\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.2\2.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.2\2.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.AgregarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.2\2.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.EntregarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.2\2.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.2\2.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Administador.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.2\2.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Cliente.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.2\2.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Proveedor.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.2\2.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form_Repartidor.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.2\2.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Login.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.2\2.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarCliente.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.2\2.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarEnvio.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.2\2.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarProveedor.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.2\2.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModificarRepartidor.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.2\2.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.2\2.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Registro.resources
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.2\2.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.2\2.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.2\2.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\SantiagoSkrobacki\Desktop\TP Gestion De Envios2.2\2.2\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
